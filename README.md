@@ -8,9 +8,10 @@ Sketching out a few design patterns in python to better understand how they are 
 - [x] Abstract Factory
 - [ ] Builder
 
-### Test Coverage
+### Scripts
 
-`// TODO`
+To create a new pattern from template, run:
+`python3 __scripts__/create.py`
 
 ### Resources
 
