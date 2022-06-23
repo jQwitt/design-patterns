@@ -2,11 +2,40 @@
 
 Sketching out a few design patterns in python to better understand how they are implemented.
 
-### Patters Covered
+### Creational
 
 - [x] Factory Method
 - [x] Abstract Factory
-- [ ] Builder
+- [x] Builder
+- [ ] Object Pool
+- [ ] Prototype
+- [ ] Singleton
+
+### Structural
+
+- [ ] Adapter
+- [ ] Bridge
+- [ ] Composite
+- [ ] Decorator
+- [ ] Facade
+- [ ] Flyweight
+- [ ] Private Class Data
+- [ ] Proxy
+
+### Behavioral
+
+- [ ] Chain of Responsibility
+- [ ] Command
+- [ ] Interpretor
+- [ ] Iterator
+- [ ] Mediator
+- [ ] Memento
+- [ ] Null Object
+- [ ] Observer
+- [ ] State
+- [ ] Strategy
+- [ ] Tremplate Method
+- [ ] Visitor
 
 ### Scripts
 
