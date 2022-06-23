@@ -7,6 +7,7 @@ Sketching out a few design patterns in python to better understand how they are 
 - [x] Factory Method
 - [x] Abstract Factory
 - [x] Builder
+- [ ] Object Pool
 - [ ] Prototype
 - [ ] Singleton
 
@@ -18,15 +19,18 @@ Sketching out a few design patterns in python to better understand how they are 
 - [ ] Decorator
 - [ ] Facade
 - [ ] Flyweight
+- [ ] Private Class Data
 - [ ] Proxy
 
 ### Behavioral
 
 - [ ] Chain of Responsibility
 - [ ] Command
+- [ ] Interpretor
 - [ ] Iterator
 - [ ] Mediator
 - [ ] Memento
+- [ ] Null Object
 - [ ] Observer
 - [ ] State
 - [ ] Strategy
