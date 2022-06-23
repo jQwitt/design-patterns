@@ -6,7 +6,7 @@ Sketching out a few design patterns in python to better understand how they are 
 
 - [x] Factory Method
 - [x] Abstract Factory
-- [ ] Builder
+- [x] Builder
 
 ### Scripts
 
