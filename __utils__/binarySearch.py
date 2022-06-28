@@ -9,7 +9,7 @@ def binSearch(arr: list[int], target: int) -> int:
     
     while left <= right:
 
-        mid = left + (right - left) // 2
+        mid = (left + right) // 2
         
         if debug:
             print('left: {}'.format(left))
