@@ -7,9 +7,9 @@ Sketching out a few design patterns in python to better understand how they are 
 - [x] Factory Method
 - [x] Abstract Factory
 - [x] Builder
-- [ ] Object Pool
-- [ ] Prototype
-- [ ] Singleton
+- [x] Object Pool
+- [x] Prototype
+- [x] Singleton
 
 ### Structural
 
